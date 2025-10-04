@@ -1,0 +1,11 @@
+# Java / IDE
+*.class
+*.jar
+target/
+build/
+*.log
+/.idea/
+/*.iml
+.classpath
+.project
+.settings/
