@@ -7,5 +7,7 @@ public class Conversao {
         int numInteiro = 10;
         float numFloat = numInteiro; //conversão implícita
         System.out.println(numFloat);
+
+
     }
 }
